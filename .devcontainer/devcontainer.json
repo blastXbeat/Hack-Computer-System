@@ -1,0 +1,6 @@
+{
+    "name": "HDL",
+    "dockerComposeFile": "../compose.yaml",
+    "service": "hdl",
+    "workspaceFolder": "/workspace"
+}

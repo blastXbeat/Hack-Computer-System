@@ -1,0 +1,7 @@
+services:
+  hdl:
+    build: .
+    volumes:
+      - .:/workspace
+    stdin_open: true
+    tty: true

@@ -1,0 +1,44 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Cocotb
+
+results.xml
+sim_build/
+
+# GTKWave and waveform files
+
+*.vcd
+*.fst
+*.gtkw
+
+# Verilog simulation files
+
+*.vvp
+*.out
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# VS Code
+
+.vscode/
+
+# JetBrains
+
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
